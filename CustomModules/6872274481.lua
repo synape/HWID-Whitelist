@@ -6,5 +6,5 @@ return {
 ["aa2350c3-8670-4594-8285-f86ba2cba8e1"] = true,
 ["40C96085-B306-43B4-A48A-506EA637ED5D"] = true,
 ["50A21525-6F53-4B84-8E18-A56DB0019E58"] = true,
-["70f3b57b-e948-4a0c-9fff-0d3dfabfd902"] = true --Ohio Final Boss
+["629049f5-cbf9-487f-b670-6a9caec7f63f"] = true --Ohio Final Boss
 }
